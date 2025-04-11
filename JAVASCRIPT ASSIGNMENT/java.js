@@ -1,7 +1,7 @@
 //Question 1: Introduce Yourself  
 // //Create variables to store name, age, and nationality 
 
-let name = "Alfred Godseed"; let age = 25; let nationality = "Nigerian";
+let name = "Alfred Godseed"; let age = 26; let nationality = "Nigerian";
  // Combine variables into a sentence 
  let introduction = `Hello, my name is ${name}, I am ${age} years old and I am ${nationality}.`; 
  // Log the introduction 
@@ -49,8 +49,8 @@ let reversedWord = word.split("").reverse().join(""); console.log(reversedWord);
 
  //Question 8-10: Student Arrays 
  // Create three arrays of student names 
- let jssOne = ["John", "Mary", "David", "Emily", "Michael", "Sarah", "William", "Olivia", "James", "Ava"]; 
- let jssTwo = ["Benjamin", "Charlotte", "Alexander", "Abigail", "Elijah", "Harper", "Daniel", "Evelyn", "Matthew", "Lily"]; 
- let jssThree = ["Jackson", "Sophia", "Logan", "Mia", "Lucas", "Isabella", "Mason", "Charlotte", "Ethan", "Amelia"]; 
+ let jssOne = ["John", "Mary", "David", "Seed", "Angel", "Sarah", "Etuk", "Aniedi", "Peter", "Nancy"]; 
+ let jssTwo = ["Benjamin", "Lois", "Hope", "Emeka", "Charles", "Miracle", "Daniel", "Faith", "Matthew", "Collins"]; 
+ let jssThree = ["Ronaldo", "Messi", "Neymar", "Hazard", "Saka", "Sallah", "Timber", "Saliba", "Partey", "Rice"]; 
  // Log the arrays 
  console.log(jssOne); console.log(jssTwo); console.log(jssThree);
